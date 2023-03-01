@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShinG3e
-- 👀 I’m interested in web3 security
-- 🌱 I’m currently learning javascript and solidity
-- 💞️ I’m looking to collaborate on nothing at this moment
+- 👀 I’m interested in web3 & Data Analytics
+- 🌱 I’m currently learning Excel, Python & SQL
+- 💞️ I’m looking for opportunities.
 - 📫 How to reach me shing3e@protonmail.com
 
 <!---
