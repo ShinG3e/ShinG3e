@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Directory Listing</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    li {
+      margin-bottom: 5px;
+    }
+    a {
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <h1>Directory Listing</h1>
+  <ul>
+    <li><a href="file1.html">File 1</a></li>
+    <li><a href="file2.html">File 2</a></li>
+    <li><a href="file3.html">File 3</a></li>
+  </ul>
+</body>
+</html>
